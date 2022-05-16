@@ -44,7 +44,7 @@ PreMiD is a configurable Discord status that shows your current activity on mult
 [Source Code](https://github.com/PreMiD/PreMiD)
 
 ## Contribution 3 - fav-food-page
-
+A collection of user-contributed web pages that describe users' favorite foods.
 
 [Source Code](https://github.com/nurhaliza/fav-food-page)
 
