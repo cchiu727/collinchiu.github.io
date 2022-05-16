@@ -3,6 +3,8 @@ I am a third year student at California State University, Fullerton majoring in 
 
 Some of my hobbies include art such as graphic design, creating programs for practice, and video game development. 
 
+
+
 # Skills
 - C++
 - C
@@ -11,6 +13,8 @@ Some of my hobbies include art such as graphic design, creating programs for pra
 - CSS
 - Unreal Engine
 - Unity
+
+
 
 # Projects
 ## Group Project 1 - FitZone
@@ -44,8 +48,11 @@ PreMiD is a configurable Discord status that shows your current activity on mult
 
 [Source Code](https://github.com/nurhaliza/fav-food-page)
 
+
+
 # Contact
 Best way to contact me is through email!
+
 Email - collinchiu23@gmail.com
 
 I am also available on [LinkedIn](https://www.linkedin.com/in/collin-chiu-8a47081b6/).
